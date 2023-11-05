@@ -4,7 +4,7 @@ This is a solution to [the QR code component challenge on Frontend Mentor](https
 
 ## Screenshots
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot.png)
 
 
 ## Authors
